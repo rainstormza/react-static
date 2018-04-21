@@ -8,3 +8,7 @@ This example is the most basic version of react-static available. It includes:
 - Automatic Routing
 
 To get started, run `react-static create` and use the `basic` template.
+
+Deploy url
+
+https://dist-svbulnhxhg.now.sh/
